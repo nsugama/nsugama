@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nsugama
-- 👀 I’m interested in andruino, php and python program
-- 🌱 I’m currently learning andruino for master modbus protocol
+- 👀 I’m interested in arduino, php and python program
+- 🌱 I’m currently learning arduino for master modbus protocol
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
